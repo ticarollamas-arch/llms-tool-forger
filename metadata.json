@@ -1,0 +1,6 @@
+{
+  "name": "LLM ToolForge",
+  "description": "Plataforma avançada de auditoria, conformidade e engenharia de automação de LLMs concebida por Ana Caroline Lamas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
